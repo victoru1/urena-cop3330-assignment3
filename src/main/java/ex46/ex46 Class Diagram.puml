@@ -1,7 +1,7 @@
 @startuml
 'https://plantuml.com/sequence-diagram
 
-class Word_Finder{
+class WordFrequency_Finder{
 
  +{static}readFile: BufferedReader
 
